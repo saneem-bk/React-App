@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React-App/static/css/main.ae907d40.css",
+    "main.js": "/React-App/static/js/main.abcc7fb8.js",
+    "static/js/592.77751a5b.chunk.js": "/React-App/static/js/592.77751a5b.chunk.js",
+    "static/media/contact-icon.jpg": "/React-App/static/media/contact-icon.c26198746dc903cbdf4e.jpg",
+    "index.html": "/React-App/index.html",
+    "main.ae907d40.css.map": "/React-App/static/css/main.ae907d40.css.map",
+    "main.abcc7fb8.js.map": "/React-App/static/js/main.abcc7fb8.js.map",
+    "592.77751a5b.chunk.js.map": "/React-App/static/js/592.77751a5b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae907d40.css",
+    "static/js/main.abcc7fb8.js"
+  ]
+}
